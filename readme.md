@@ -21,3 +21,7 @@ This proxy is meant to proxy the integration API and logs the incoming requests 
 ```
 
 `note that the /api might not be needed. Check if the current URL has /something/{action}`
+
+### Changing port
+
+You can change the port that the application runs on in config.json
